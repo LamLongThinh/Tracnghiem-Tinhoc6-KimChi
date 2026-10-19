@@ -1,552 +1,310 @@
 [
-    {
-        "question": "Thao tác nháy chuột vào tên trang tính, kéo thả chuột sang trái, phải dùng để làm gì?",
-        "options": [
-            "Tạo trang tính mới",
-            "Chèn thêm trang tính.",
-            "Di chuyển trang tính",
-            "Sao chép trang tính."
-        ],
-        "answer": "Di chuyển trang tính",
-        "image_base64": null
-    },
-    {
-        "question": "Dữ liệu số trong bảng tính được hiểu là:",
-        "options": [
-            "Chỉ gồm các số nguyên",
-            "Chỉ gồm các số thập phân",
-            "Các số nguyên hoặc số thập phân",
-            "Các ký tự và chữ cái"
-        ],
-        "answer": "Các số nguyên hoặc số thập phân",
-        "image_base64": null
-    },
-    {
-        "question": "Việc định dạng dữ liệu số trong bảng tính cho phép:",
-        "options": [
-            "Thay đổi giá trị của số",
-            "Quy định cách hiển thị của số",
-            "Xóa dữ liệu trong ô",
-            "Sao chép dữ liệu sang ô khác"
-        ],
-        "answer": "Quy định cách hiển thị của số",
-        "image_base64": null
-    },
-    {
-        "question": "Sao chép một trang tính sang vị trí mới, em nháy nút phải chuột vào tên trang tính và chọn:",
-        "options": [
-            "Font.",
-            "Border.",
-            "Number.",
-            "Move or Copy."
-        ],
-        "answer": "Move or Copy.",
-        "image_base64": null
-    },
-    {
-        "question": "Lựa chọn Border → Outline trong cửa sổ Format Cells dùng để làm gì?",
-        "options": [
-            "Không kẻ khung.",
-            "Kẻ khung bên ngoài.",
-            "Kẻ đường viền ô.",
-            "Chọn kiểu đường kẻ."
-        ],
-        "answer": "Kẻ khung bên ngoài.",
-        "image_base64": null
-    },
-    {
-        "question": "Trong cửa sổ Format Cells, để thay đổi màu sắc cho đường kẻ ta chọn",
-        "options": [
-            "Color.",
-            "Style.",
-            "Presets.",
-            "Border."
-        ],
-        "answer": "Color.",
-        "image_base64": null
-    },
-    {
-        "question": "Điều kiện tiên quyết để có thể áp dụng thuật toán tìm kiếm nhị phân cho một danh sách là gì?",
-        "options": [
-            "Danh sách phải có ít nhất 10 phần tử.",
-            "Danh sách phải được sắp xếp theo một thứ tự nhất định.",
-            "Danh sách phải chứa các số nguyên.",
-            "Danh sách không được chứa các giá trị trùng lặp."
-        ],
-        "answer": "Danh sách phải được sắp xếp theo một thứ tự nhất định.",
-        "image_base64": null
-    },
-    {
-        "question": "Trong thuật toán tìm kiếm nhị phân, tại mỗi bước lặp, vùng tìm kiếm sẽ thay đổi như thế nào?",
-        "options": [
-            "Giảm đi 1 phần tử.",
-            "Giảm đi 2 phần tử.",
-            "Thu hẹp lại còn một nửa.",
-            "Giữ nguyên kích thước."
-        ],
-        "answer": "Thu hẹp lại còn một nửa.",
-        "image_base64": null
-    },
-    {
-        "question": "Cho danh sách [An, Bình, Hòa, Liên, Mai, Phương, Trang, Trúc, Tước], nếu sử dụng thuật toán tìm kiếm nhị phân để tìm khách hàng tên \"Trúc\", ta cần thực hiện bao nhiêu bước so sánh?",
-        "options": [
-            "3 bước.",
-            "5 bước.",
-            "8 bước.",
-            "9 bước."
-        ],
-        "answer": "3 bước.",
-        "image_base64": null
-    },
-    {
-        "question": "Cho danh sách đã được sắp xếp theo thứ tự bảng chữ cái [Albania, Bolivia, Canada, Germany, Greenland, Iceland, Portugal, Scotland, Vietnam], ở lần kiểm tra đầu tiên của thuật toán tìm kiếm nhị phân, phần tử nào được chọn?",
-        "options": [
-            "Canada",
-            "Germany",
-            "Greenland",
-            "Iceland"
-        ],
-        "answer": "Greenland",
-        "image_base64": null
-    },
-    {
-        "question": "Hiệu ứng động trong trình chiếu là gì?",
-        "options": [
-            "Cách thay đổi màu nền trang chiếu",
-            "Cách và thời điểm xuất hiện của các đối tượng và trang chiếu",
-            "Cách chèn hình ảnh vào trang chiếu",
-            "Cách lưu tệp trình chiếu"
-        ],
-        "answer": "Cách và thời điểm xuất hiện của các đối tượng và trang chiếu",
-        "image_base64": null
-    },
-    {
-        "question": "Hiệu ứng cho các đối tượng trên trang chiếu được gọi là gì?",
-        "options": [
-            "Hiệu ứng chuyển trang",
-            "Hiệu ứng văn bản",
-            "Hiệu ứng đối tượng",
-            "Hiệu ứng hình nền"
-        ],
-        "answer": "Hiệu ứng đối tượng",
-        "image_base64": null
-    },
-    {
-        "question": "Hiệu ứng chuyển trang chiếu có tác dụng gì?",
-        "options": [
-            "Làm thay đổi nội dung trang chiếu",
-            "Tạo cách chuyển từ trang chiếu này sang trang chiếu khác",
-            "Thay đổi màu chữ",
-            "Chèn âm thanh"
-        ],
-        "answer": "Tạo cách chuyển từ trang chiếu này sang trang chiếu khác",
-        "image_base64": null
-    },
-    {
-        "question": "Khi sử dụng quá nhiều hiệu ứng động trong bài trình chiếu, điều gì có thể xảy ra?",
-        "options": [
-            "Gây rối mắt và mất tập trung",
-            "Người xem dễ tập trung hơn",
-            "Bài trình chiếu rõ ràng hơn",
-            "Tăng tốc độ trình chiếu"
-        ],
-        "answer": "Gây rối mắt và mất tập trung",
-        "image_base64": null
-    },
-    {
-        "question": "Trong trường hợp nào nên sử dụng hiệu ứng động?",
-        "options": [
-            "Khi nội dung không quan trọng",
-            "Khi muốn bài trình chiếu sinh động và thu hút",
-            "Khi không có hình ảnh",
-            "Khi muốn giảm thời gian trình chiếu"
-        ],
-        "answer": "Khi muốn bài trình chiếu sinh động và thu hút",
-        "image_base64": null
-    },
-    {
-        "question": "Hiệu ứng cho các trang chiếu nằm trong thẻ nào?",
-        "options": [
-            "Transitions",
-            "Animations",
-            "Design",
-            "Insert"
-        ],
-        "answer": "Transitions",
-        "image_base64": null
-    },
-    {
-        "question": "Có bao nhiêu loại hiệu ứng động?",
-        "options": [
-            "1",
-            "2",
-            "3",
-            "4"
-        ],
-        "answer": "2",
-        "image_base64": null
-    },
-    {
-        "question": "Định dạng nào phù hợp khi tạo bài trình chiếu?",
-        "options": [
-            "Tiêu đề kiểu chữ thường, nội dung kiểu chữ đậm",
-            "Tiêu đề kiểu chữ đậm, nội dung kiểu chữ đậm",
-            "Tiêu đề kiểu chữ đậm, nội dung kiểu chữ thường",
-            "Tiêu đề kiểu chữ thường, nội dung kiểu chữ thường"
-        ],
-        "answer": "Tiêu đề kiểu chữ đậm, nội dung kiểu chữ thường",
-        "image_base64": null
-    },
-    {
-        "question": "Hiệu ứng cho đối tượng nằm trong thẻ nào?",
-        "options": [
-            "Transitions",
-            "Animations",
-            "Design",
-            "Insert"
-        ],
-        "answer": "Animations",
-        "image_base64": null
-    },
-    {
-        "question": "Hiệu ứng cho các trang chiếu gọi là gì?",
-        "options": [
-            "Hiệu ứng cho đối tượng",
-            "Hiệu ứng chuyển trang chiếu",
-            "Hiệu ứng di chuyển",
-            "Hiệu ứng xoay tròn"
-        ],
-        "answer": "Hiệu ứng chuyển trang chiếu",
-        "image_base64": null
-    },
-    {
-        "question": "Thuật toán sắp xếp nổi bọt thực hiện bằng cách nào?",
-        "options": [
-            "So sánh các phần tử liền kề và hoán đổi nếu sai thứ tự",
-            "Chọn phần tử lớn nhất đưa về đầu",
-            "Chia nhỏ danh sách rồi sắp xếp",
-            "Đổi chỗ phần tử bất kỳ"
-        ],
-        "answer": "So sánh các phần tử liền kề và hoán đổi nếu sai thứ tự",
-        "image_base64": null
-    },
-    {
-        "question": "Trong sắp xếp nổi bọt tăng dần, khi nào hai phần tử được hoán đổi?",
-        "options": [
-            "Khi phần tử trước nhỏ hơn phần tử sau",
-            "Khi phần tử trước lớn hơn phần tử sau",
-            "Khi hai phần tử bằng nhau",
-            "Khi phần tử sau là số chẵn"
-        ],
-        "answer": "Khi phần tử trước lớn hơn phần tử sau",
-        "image_base64": null
-    },
-    {
-        "question": "Thuật toán tìm kiếm nhị phân cần bao nhiêu bước để tìm thấy số 12 trong danh sách đã sắp xếp [2, 5, 8, 12, 16, 20, 25]?",
-        "options": [
-            "1",
-            "2",
-            "4",
-            "3"
-        ],
-        "answer": "1",
-        "image_base64": null
-    },
-    {
-        "question": "Khi tra từ trong từ điển theo cách tìm kiếm nhị phân, bước đầu tiên là gì?",
-        "options": [
-            "Mở từ điển ở trang đầu",
-            "Mở từ điển ở trang cuối",
-            "Mở từ điển ở trang giữa",
-            "Mở ngẫu nhiên một trang"
-        ],
-        "answer": "Mở từ điển ở trang giữa",
-        "image_base64": null
-    },
-    {
-        "question": "Nếu từ cần tìm đứng sau từ ở trang giữa, em sẽ làm gì?",
-        "options": [
-            "Lật về nửa trước của cuốn từ điển",
-            "Lật sang nửa sau của cuốn từ điển",
-            "Dừng lại",
-            "Tìm từng trang một"
-        ],
-        "answer": "Lật sang nửa sau của cuốn từ điển",
-        "image_base64": null
-    },
-    {
-        "question": "Ưu điểm chính của cách tìm kiếm nhị phân so với tìm tuần tự là gì?",
-        "options": [
-            "Dễ thực hiện hơn",
-            "Tốn nhiều thời gian hơn",
-            "Nhanh hơn do loại bỏ một nửa dữ liệu sau mỗi lần tìm",
-            "Không cần sắp xếp dữ liệu"
-        ],
-        "answer": "Nhanh hơn do loại bỏ một nửa dữ liệu sau mỗi lần tìm",
-        "image_base64": null
-    },
-    {
-        "question": "Thuật toán tìm kiếm nhị phân cần thực hiện bao nhiêu bước lặp để thông báo tìm thấy số 25 trong danh sách [3, 5, 7, 11, 12, 25]?",
-        "options": [
-            "2",
-            "3",
-            "4",
-            "5"
-        ],
-        "answer": "3",
-        "image_base64": null
-    },
-    {
-        "question": "Điều kiện cần để áp dụng tìm kiếm nhị phân là gì?",
-        "options": [
-            "Dữ liệu phải được sắp xếp theo thứ tự",
-            "Dữ liệu phải rất lớn",
-            "Dữ liệu phải là số",
-            "Dữ liệu phải là chữ cái"
-        ],
-        "answer": "Dữ liệu phải được sắp xếp theo thứ tự",
-        "image_base64": null
-    },
-    {
-        "question": "Định dạng dữ liệu phần trăm trong bảng tính thường được hiển thị bằng ký hiệu nào?",
-        "options": [
-            "$",
-            "%",
-            "#",
-            "@"
-        ],
-        "answer": "%",
-        "image_base64": null
-    },
-    {
-        "question": "Kiểu định dạng ngày tháng nào sau đây là phổ biến tại Việt Nam?",
-        "options": [
-            "mm/dd/yyyy",
-            "dd/mm/yyyy",
-            "yyyy/dd/mm",
-            "dd/yyyy/mm"
-        ],
-        "answer": "dd/mm/yyyy",
-        "image_base64": null
-    },
-    {
-        "question": "Kết quả của công thức =SUM(1,3,5) là bao nhiêu?",
-        "options": [
-            "7",
-            "8",
-            "9",
-            "10"
-        ],
-        "answer": "9",
-        "image_base64": null
-    },
-    {
-        "question": "Kết quả của công thức =AVERAGE(6,3,3) là bao nhiêu?",
-        "options": [
-            "4",
-            "3",
-            "5",
-            "6"
-        ],
-        "answer": "4",
-        "image_base64": null
-    },
-    {
-        "question": "Hàm =COUNT(1,2,3,4) trả về kết quả nào?",
-        "options": [
-            "4",
-            "3",
-            "5",
-            "6"
-        ],
-        "answer": "4",
-        "image_base64": null
-    },
-    {
-        "question": "Khi gộp nhiều ô trong bảng tính, dữ liệu sẽ như thế nào?",
-        "options": [
-            "Tất cả dữ liệu được giữ lại",
-            "Chỉ giữ dữ liệu của ô cuối cùng",
-            "Chỉ giữ dữ liệu ô trên cùng bên trái",
-            "Tất cả dữ liệu bị xóa"
-        ],
-        "answer": "Chỉ giữ dữ liệu ô trên cùng bên trái",
-        "image_base64": null
-    },
-    {
-        "question": "Điểm chính của tìm kiếm tuần tự là:",
-        "options": [
-            "Luôn cần dữ liệu đã sắp xếp",
-            "Tìm kiếm từ giữa ra hai bên",
-            "Kiểm tra lần lượt từng phần tử",
-            "Chỉ áp dụng cho số"
-        ],
-        "answer": "Kiểm tra lần lượt từng phần tử",
-        "image_base64": null
-    },
-    {
-        "question": "Trong thực tế, tìm kiếm tuần tự phù hợp nhất khi:",
-        "options": [
-            "Dữ liệu rất lớn và đã sắp xếp",
-            "Dữ liệu nhỏ hoặc chưa sắp xếp",
-            "Cần tìm nhanh trong dữ liệu lớn",
-            "Dữ liệu luôn có thứ tự"
-        ],
-        "answer": "Dữ liệu nhỏ hoặc chưa sắp xếp",
-        "image_base64": null
-    },
-    {
-        "question": "Cho danh sách số: [5, 8, 2, 9, 1]. Tìm số 9 bằng tìm kiếm tuần tự. Số lần so sánh là:",
-        "options": [
-            "2",
-            "3",
-            "5",
-            "4"
-        ],
-        "answer": "4",
-        "image_base64": null
-    },
-    {
-        "question": "Một học sinh kiểm tra từng tên trong danh sách lớp để tìm bạn “Minh”. Việc làm này tương ứng với bước nào của thuật toán?",
-        "options": [
-            "Lặp và kiểm tra từng phần tử",
-            "Sắp xếp dữ liệu",
-            "Xóa dữ liệu",
-            "Ghi kết quả ngay từ đầu"
-        ],
-        "answer": "Lặp và kiểm tra từng phần tử",
-        "image_base64": null
-    },
-    {
-        "question": "Để tạo hiệu ứng cho đối tượng được chọn trên trang chiếu, em sử dụng lệnh nào?",
-        "options": [
-            "Animations / Animation Pane",
-            "Animations / Chọn hiệu ứng trong Animation",
-            "Transitions / Chọn hiệu ứng trong Transition to This Slide",
-            "Transitions / Preview"
-        ],
-        "answer": "Animations / Chọn hiệu ứng trong Animation",
-        "image_base64": null
-    },
-    {
-        "question": "Nếu em muốn làm nổi bật tiêu đề trên trang chiếu khi trình bày, em nên:",
-        "options": [
-            "Không dùng hiệu ứng",
-            "Dùng hiệu ứng xuất hiện cho tiêu đề",
-            "Xóa tiêu đề",
-            "Giảm kích thước chữ"
-        ],
-        "answer": "Dùng hiệu ứng xuất hiện cho tiêu đề",
-        "image_base64": null
-    },
-    {
-        "question": "Phát biểu nào sai?",
-        "options": [
-            "Để hiển thị mẫu định dạng cần mở thẻ lệnh Home.",
-            "Có thể sử dụng mẫu định dạng cho một số trang chiếu.",
-            "Cấu trúc phân cấp giúp làm nội dung trình bày có bố cục mạch lạc, dễ hiểu.",
-            "Hiệu ứng động nên được sử dụng một cách có chọn lọc."
-        ],
-        "answer": "Để hiển thị mẫu định dạng cần mở thẻ lệnh Home.",
-        "image_base64": null
-    },
-    {
-        "question": "Khi trình bày nội dung trên một trang chiếu (slide), quy tắc nào sau đây là đúng?",
-        "options": [
-            "Càng sử dụng nhiều hiệu ứng động cho các đối tượng thì bài trình chiếu càng tốt.",
-            "Không cần quan tâm đến bản quyền khi sử dụng hình ảnh minh họa từ internet.",
-            "Nên sử dụng thật nhiều màu sắc và kiểu chữ khác nhau để bài trình chiếu thêm đẹp mắt.",
-            "Nội dung cần viết cô đọng, chọn lọc từ ngữ và nên tập trung vào một ý chính."
-        ],
-        "answer": "Nội dung cần viết cô đọng, chọn lọc từ ngữ và nên tập trung vào một ý chính.",
-        "image_base64": null
-    },
-    {
-        "question": "Nhận định nào sau đây là SAI về việc thiết kế bài trình chiếu?",
-        "options": [
-            "Sử dụng hình ảnh minh họa giúp truyền tải thông tin trực quan và gây ấn tượng.",
-            "Cần lưu ý đến tính thẩm mỹ và bản quyền của hình ảnh khi đưa vào bài.",
-            "Việc biên tập nội dung và định dạng văn bản là bước không cần thiết.",
-            "Lạm dụng quá nhiều hiệu ứng động và màu sắc có thể làm giảm hiệu quả truyền đạt."
-        ],
-        "answer": "Việc biên tập nội dung và định dạng văn bản là bước không cần thiết.",
-        "image_base64": null
-    },
-    {
-        "question": "Thuật toán sắp xếp nổi bọt dừng khi nào?",
-        "options": [
-            "Khi không còn hoán đổi nào xảy ra",
-            "Khi phần tử lớn nhất ở đầu",
-            "Sau 1 lần lặp",
-            "Khi đã đổi chỗ đủ số lần"
-        ],
-        "answer": "Khi không còn hoán đổi nào xảy ra",
-        "image_base64": null
-    },
-    {
-        "question": "Thuật toán nổi bọt sắp xếp dãy theo thứ tự tăng dần bằng cách:",
-        "options": [
-            "So sánh các cặp phần tử liền kề từ đầu đến cuối",
-            "So sánh từ cuối lên đầu",
-            "So sánh ngẫu nhiên",
-            "Chỉ so sánh phần tử đầu và cuối"
-        ],
-        "answer": "So sánh các cặp phần tử liền kề từ đầu đến cuối",
-        "image_base64": null
-    },
-    {
-        "question": "Phát biểu nào đúng về thuật toán nổi bọt?",
-        "options": [
-            "Không cần so sánh phần tử",
-            "Chỉ cần một lần lặp",
-            "Có thể phải lặp lại nhiều lần để sắp xếp hoàn chỉnh",
-            "Không cần hoán đổi"
-        ],
-        "answer": "Có thể phải lặp lại nhiều lần để sắp xếp hoàn chỉnh",
-        "image_base64": null
-    },
-    {
-        "question": "Cho danh sách đã được sắp xếp theo thứ tự bảng chữ cái",
-        "options": [
-            "Tìm nửa bên trái",
-            "Tìm nửa bên phải",
-            "Dừng lại",
-            "Tìm lại từ đầu"
-        ],
-        "answer": "Tìm nửa bên phải",
-        "image_base64": null
-    },
-    {
-        "question": "Thuật toán tìm kiếm nhị phân cần bao nhiêu bước để tìm thấy số 7 trong danh sách đã sắp xếp [1, 4, 7, 8, 10, 28]?",
-        "options": [
-            "1",
-            "2",
-            "4",
-            "3"
-        ],
-        "answer": "1",
-        "image_base64": null
-    },
-    {
-        "question": "Thuật toán tìm kiếm nhị phân cần bao nhiêu bước để kết luận không tìm thấy số 15 trong danh sách đã sắp xếp [3, 5, 7, 11, 12, 25]?",
-        "options": [
-            "2",
-            "3",
-            "4",
-            "5"
-        ],
-        "answer": "3",
-        "image_base64": null
-    },
-    {
-        "question": "Trong thuật toán tìm kiếm nhị phân, \"Đầu vào\" (Input) bao gồm những yếu tố nào?",
-        "options": [
-            "Danh sách đã được sắp xếp và giá trị cần tìm",
-            "Danh sách bất kì không cần sắp xếp",
-            "Chỉ giá trị cần tìm",
-            "Chỉ danh sách các số"
-        ],
-        "answer": "Danh sách đã được sắp xếp và giá trị cần tìm",
-        "image_base64": null
-    }
+  {
+    "question": "Đơn vị đo dung lượng thông tin Kilobyte (1 KB) có độ lớn bằng bao nhiêu Byte?",
+    "options": [
+      "2014 Byte",
+      "1024 Byte.",
+      "2410 Byte.",
+      "1 tỉ Byte."
+    ],
+    "answer": "1024 Byte.",
+    "image_base64": null
+  },
+  {
+    "question": "Độ lớn xấp xỉ theo hệ thập phân của các đơn vị đo Megabyte (MB) và Gigabyte (GB) lần lượt là:",
+    "options": [
+      "1 tỉ Byte và 1 nghìn tỉ Byte.",
+      "1 ngàn Byte và 1 triệu Byte.",
+      "1 triệu Byte và 1 tỉ Byte.",
+      "100 Byte và 1000 Byte."
+    ],
+    "answer": "1 triệu Byte và 1 tỉ Byte.",
+    "image_base64": null
+  },
+  {
+    "question": "Vì sao tất cả các dạng thông tin như số, văn bản, hình ảnh, âm thanh khi đưa vào máy tính đều phải chuyển đổi thành dãy bit?",
+    "options": [
+      "Vì dãy bit giúp con người dễ đọc hơn chữ viết thông thường.",
+      "Vì mã hóa thành dãy bit giúp giảm kích thước màn hình máy tính.",
+      "Vì máy tính thông dụng hiện nay chỉ làm việc với hai kí hiệu 0 và 1 (mạch điện ở trạng thái tắt/mở).",
+      "Vì bàn phím máy tính chỉ có hai phím 0 và 1."
+    ],
+    "answer": "Vì máy tính thông dụng hiện nay chỉ làm việc với hai kí hiệu 0 và 1 (mạch điện ở trạng thái tắt/mở).",
+    "image_base64": null
+  },
+  {
+    "question": "Mục đích chính của quá trình mã hóa thông tin trong máy tính là gì?",
+    "options": [
+      "Tự động sửa lỗi chính tả cho văn bản.",
+      "Xóa bỏ hoàn toàn các dữ liệu hình ảnh và âm thanh.",
+      "Đảm bảo máy tính không bao giờ bị nhiễm virus.",
+      "Xử lí thông tin thực tế thành dạng dãy bit để máy tính có thể lưu trữ và xử lí được."
+    ],
+    "answer": "Xử lí thông tin thực tế thành dạng dãy bit để máy tính có thể lưu trữ và xử lí được.",
+    "image_base64": null
+  },
+  {
+    "question": "Khái niệm nào sau đây phát biểu đúng về mạng máy tính?",
+    "options": [
+      "Mạng máy tính là hệ thống các dây điện cung cấp nguồn cho máy tính.",
+      "Mạng máy tính là tập hợp các máy tính nằm độc lập trong cùng một phòng học.",
+      "Mạng máy tính là một chiếc máy tính đơn lẻ kết nối với một máy in qua dây cáp ngắn.",
+      "Mạng máy tính là hai hay nhiều máy tính và các thiết bị được kết nối với nhau để truyền thông tin cho nhau."
+    ],
+    "answer": "Mạng máy tính là hai hay nhiều máy tính và các thiết bị được kết nối với nhau để truyền thông tin cho nhau.",
+    "image_base64": null
+  },
+  {
+    "question": "Phương án nào sau đây nêu đúng các lợi ích chính của mạng máy tính?",
+    "options": [
+      "Giúp máy tính tự động tăng gấp đôi dung lượng bộ nhớ trong.",
+      "Cho phép người sử dụng trao đổi thông tin, chia sẻ dữ liệu và dùng chung các thiết bị trên mạng.",
+      "Ngăn chặn tuyệt đối 100% các cuộc tấn công mạng.",
+      "Giúp máy tính hoạt động mà không cần sử dụng nguồn điện."
+    ],
+    "answer": "Cho phép người sử dụng trao đổi thông tin, chia sẻ dữ liệu và dùng chung các thiết bị trên mạng.",
+    "image_base64": null
+  },
+  {
+    "question": "Các thiết bị như máy tính để bàn, máy tính xách tay, điện thoại thông minh, máy in thuộc thành phần nào của mạng máy tính?",
+    "options": [
+      "Thiết bị kết nối.",
+      "Thiết bị đầu cuối.",
+      "Phần mềm mạng.",
+      "Môi trường truyền dẫn."
+    ],
+    "answer": "Thiết bị đầu cuối.",
+    "image_base64": null
+  },
+  {
+    "question": "Thiết bị nào sau đây thuộc thành phần Thiết bị kết nối trong mạng máy tính?",
+    "options": [
+      "Máy quét (Scanner).",
+      "Máy tính để bàn.",
+      "Bộ chuyển mạch (Switch), Bộ định tuyến không dây (Wireless Router).",
+      "Màn hình hiển thị."
+    ],
+    "answer": "Bộ chuyển mạch (Switch), Bộ định tuyến không dây (Wireless Router).",
+    "image_base64": null
+  },
+  {
+    "question": "Thành phần Phần mềm mạng có vai trò gì trong hệ thống mạng máy tính?",
+    "options": [
+      "Biến máy tính thường thành máy in chuyên dụng.",
+      "Kết nối vật lý trực tiếp giữa các máy tính bằng dây cáp đồng.",
+      "Cung cấp bộ nhớ lưu trữ cố định cho máy chủ.",
+      "Hỗ trợ các thiết bị tuân thủ các quy tắc giao tiếp để trao đổi dữ liệu trong mạng."
+    ],
+    "answer": "Hỗ trợ các thiết bị tuân thủ các quy tắc giao tiếp để trao đổi dữ liệu trong mạng.",
+    "image_base64": null
+  },
+  {
+    "question": "Phát biểu nào sau đây nêu đúng về đặc điểm của Internet?",
+    "options": [
+      "Internet không cho phép các máy tính ở các quốc gia khác nhau kết nối với nhau.",
+      "Internet là mạng nội bộ thuộc quyền sở hữu riêng của một tập đoàn công nghệ.",
+      "Internet chỉ hoạt động trong phạm vi giới hạn của một quốc gia.",
+      "Internet là mạng máy tính công cộng toàn cầu, không thuộc sở hữu của riêng cá nhân hay tổ chức nào."
+    ],
+    "answer": "Internet là mạng máy tính công cộng toàn cầu, không thuộc sở hữu của riêng cá nhân hay tổ chức nào.",
+    "image_base64": null
+  },
+  {
+    "question": "Tình huống nào sau đây minh họa rõ nhất ưu điểm tiện dụng của mạng không dây so với mạng có dây?",
+    "options": [
+      "Máy tính kết nối với máy in đặt ngay cạnh trên cùng một bàn làm việc.",
+      "Các máy tính để bàn cố định trong phòng máy tính của trường học kết nối qua dây cáp mạng.",
+      "Hệ thống máy chủ ngân hàng đặt cố định trong phòng dữ liệu cần tốc độ truyền tải cao.",
+      "Học sinh dùng điện thoại thông minh hoặc máy tính bảng di chuyển linh hoạt ngoài sân trường để tham gia cuộc thi trực tuyến."
+    ],
+    "answer": "Học sinh dùng điện thoại thông minh hoặc máy tính bảng di chuyển linh hoạt ngoài sân trường để tham gia cuộc thi trực tuyến.",
+    "image_base64": null
+  },
+  {
+    "question": "Lớp học của bạn An tổ chức buổi học nhóm tại phòng học thông minh. Các thành viên cần di chuyển máy tính xách tay liên tục giữa các bàn để thảo luận và chiếu bài làm. Loại mạng nào phù hợp nhất và vì sao?",
+    "options": [
+      "Mạng có dây, vì bắt buộc các thiết bị phải đứng yên một chỗ.",
+      "Mạng có dây, vì dây cáp giăng khắp phòng sẽ đảm bảo mỹ quan.",
+      "Mạng không dây, vì giúp thiết bị kết nối dễ dàng, thuận tiện di chuyển mà không bị vướng dây cáp.",
+      "Không cần kết nối mạng vì máy tính xách tay không thể dùng mạng."
+    ],
+    "answer": "Mạng không dây, vì giúp thiết bị kết nối dễ dàng, thuận tiện di chuyển mà không bị vướng dây cáp.",
+    "image_base64": null
+  },
+  {
+    "question": "Lợi ích thiết thực nhất của Internet đối với học sinh trong quá trình học tập là gì?",
+    "options": [
+      "Sử dụng để chơi game điện tử và xem phim suốt cả ngày.",
+      "Tìm kiếm tài liệu học tập phong phú, tham gia các khóa học trực tuyến và giao lưu học hỏi với bạn bè.",
+      "Tự động giải hoàn toàn các bài tập mà không cần học sinh tư duy.",
+      "Thay thế hoàn toàn vai trò của thầy cô giáo và nhà trường."
+    ],
+    "answer": "Tìm kiếm tài liệu học tập phong phú, tham gia các khóa học trực tuyến và giao lưu học hỏi với bạn bè.",
+    "image_base64": null
+  },
+  {
+    "question": "Trong một văn phòng có 10 máy tính, việc kết nối mạng để dùng chung 1 máy in mang lại ưu điểm gì vượt trội so với việc không nối mạng?",
+    "options": [
+      "Tiết kiệm chi phí mua nhiều máy in và cho phép tất cả các máy tính đều có thể gửi lệnh in.",
+      "Bắt buộc mỗi máy tính phải được trang bị riêng một máy in.",
+      "Làm tăng thời gian chờ đợi và gây hỏng máy in nhanh hơn.",
+      "Chỉ cho phép máy tính làm máy chủ mới được quyền in ấn."
+    ],
+    "answer": "Tiết kiệm chi phí mua nhiều máy in và cho phép tất cả các máy tính đều có thể gửi lệnh in.",
+    "image_base64": null
+  },
+  {
+    "question": "Tờ giấy có in bảng kết quả học tập giữa kì I của học sinh được gọi là gì?",
+    "options": [
+      "Thông tin.",
+      "Dữ liệu.",
+      "Vật mang tin.",
+      "Tri thức."
+    ],
+    "answer": "Vật mang tin.",
+    "image_base64": null
+  },
+  {
+    "question": "Phát biểu nào sau đây nêu đúng về khái niệm dữ liệu?",
+    "options": [
+      "Dữ liệu là những hiểu biết của con người về thế giới xung quanh.",
+      "Dữ liệu là những gì con người tiếp nhận để có được thông tin, được thể hiện dưới dạng con số, văn bản, hình ảnh, kí hiệu, ...",
+      "Dữ liệu là phương tiện dùng để lưu trữ và truyền tải thông tin.",
+      "Dữ liệu chỉ tồn tại duy nhất trong bộ nhớ của máy tính."
+    ],
+    "answer": "Dữ liệu là những gì con người tiếp nhận để có được thông tin, được thể hiện dưới dạng con số, văn bản, hình ảnh, kí hiệu, ...",
+    "image_base64": null
+  },
+  {
+    "question": "Trong giờ học, khi em chú ý lắng nghe cô giáo giảng bài bằng tai và quan sát bảng bằng mắt, các giác quan của em đang thực hiện hoạt động nào trong quá trình xử lí thông tin?",
+    "options": [
+      "Thu nhận thông tin.",
+      "Lưu trữ thông tin.",
+      "Xử lí thông tin.",
+      "Truyền thông tin."
+    ],
+    "answer": "Thu nhận thông tin.",
+    "image_base64": null
+  },
+  {
+    "question": "Việc em ghi chép các kiến thức trọng tâm của bài học vào vở để học thuộc lòng là hoạt động nào trong quá trình xử lí thông tin?",
+    "options": [
+      "Thu nhận thông tin.",
+      "Lưu trữ thông tin.",
+      "Xử lí thông tin.",
+      "Truyền thông tin."
+    ],
+    "answer": "Lưu trữ thông tin.",
+    "image_base64": null
+  },
+  {
+    "question": "Khi học sinh phân tích, suy luận và thực hiện các phép tính để tìm ra đáp án cho một bài toán khó, bộ não đang thực hiện bước nào trong quá trình xử lí thông tin?",
+    "options": [
+      "Thu nhận thông tin.",
+      "Lưu trữ thông tin.",
+      "Xử lí thông tin.",
+      "Truyền thông tin."
+    ],
+    "answer": "Xử lí thông tin.",
+    "image_base64": null
+  },
+  {
+    "question": "Khi em phát biểu ý kiến trước lớp hoặc gửi tin nhắn trao đổi bài tập với bạn, em đang thực hiện thao tác nào?",
+    "options": [
+      "Thu nhận thông tin.",
+      "Lưu trữ thông tin.",
+      "Xử lí thông tin.",
+      "Truyền thông tin."
+    ],
+    "answer": "Truyền thông tin.",
+    "image_base64": null
+  },
+  {
+    "question": "Quan sát bản tin dự báo thời tiết trên tivi hiển thị các con số: \"Nhiệt độ thấp nhất: 24°C, Nhiệt độ cao nhất: 31°C\", bạn An kết luận: \"Hôm nay trời nắng và khá nóng\". Phát biểu nào sau đây là đúng?",
+    "options": [
+      "Các con số hiển thị trên bản tin và kết luận của An đều là dữ liệu thô.",
+      "Các con số hiển thị trên bản tin là thông tin; kết luận của An là dữ liệu.",
+      "Bản tin dự báo thời tiết và kết luận của An đều là vật mang tin.",
+      "Các con số hiển thị trên bản tin là dữ liệu; kết luận của An là thông tin."
+    ],
+    "answer": "Các con số hiển thị trên bản tin là dữ liệu; kết luận của An là thông tin.",
+    "image_base64": null
+  },
+  {
+    "question": "Tấm bảng gỗ đặt ở bến tàu có ghi dòng chữ: \"Giá vé đi ra Đảo Cò: 40 000đ, thời gian: 35 phút\". Dòng chữ và các con số ghi trên tấm bảng gỗ được gọi là gì?",
+    "options": [
+      "Dữ liệu được lưu trữ trên vật mang tin.",
+      "Thông tin đã được bộ não khách du lịch xử lí.",
+      "Phương tiện truyền thông không chứa thông tin.",
+      "Tri thức cá nhân của người lái tàu."
+    ],
+    "answer": "Dữ liệu được lưu trữ trên vật mang tin.",
+    "image_base64": null
+  },
+  {
+    "question": "Cùng xem một bản tin thời tiết, học sinh lớp 6 rút ra được thông tin để chuẩn bị trang phục phù hợp, nhưng em bé 2 tuổi lại chưa hiểu được thông tin đó. Điều này chứng tỏ:",
+    "options": [
+      "Sự tiếp nhận và hiểu được thông tin phụ thuộc vào sự hiểu biết của mỗi người.",
+      "Dữ liệu trên bản tin thời tiết hoàn toàn không có giá trị.",
+      "Thông tin không có nguồn gốc từ dữ liệu.",
+      "Em bé không tiếp nhận được bất kỳ dữ liệu nào."
+    ],
+    "answer": "Sự tiếp nhận và hiểu được thông tin phụ thuộc vào sự hiểu biết của mỗi người.",
+    "image_base64": null
+  },
+  {
+    "question": "Nghe tin báo dự báo thời tiết: \"Chiều nay có khả năng xảy ra mưa dông lớn tại địa phương\", bạn Minh quyết định mang theo áo mưa khi đi học. Tình huống này minh họa cho tầm quan trọng nào của thông tin?",
+    "options": [
+      "Thông tin giúp con người đưa ra những lựa chọn và quyết định hành động phù hợp.",
+      "Thông tin làm cho công việc học tập trở nên phức tạp hơn.",
+      "Thông tin chỉ có giá trị khi được lưu trữ trên máy tính.",
+      "Thông tin không có ảnh hưởng đến hoạt động hằng ngày."
+    ],
+    "answer": "Thông tin giúp con người đưa ra những lựa chọn và quyết định hành động phù hợp.",
+    "image_base64": null
+  },
+  {
+    "question": "Việc đọc các tài liệu lịch sử về Chiến dịch Điện Biên Phủ giúp học sinh hiểu rõ về tinh thần dũng cảm của quân dân ta. Phát biểu nào sau đây đúng về lợi ích của thông tin trong tình huống này?",
+    "options": [
+      "Thông tin đem lại sự hiểu biết cho con người.",
+      "Thông tin giúp thay đổi các sự kiện đã diễn ra trong quá khứ.",
+      "Thông tin chỉ mang lại lợi ích khi được bán lấy tiền.",
+      "Thông tin làm giảm bớt khả năng tư duy của học sinh."
+    ],
+    "answer": "Thông tin đem lại sự hiểu biết cho con người.",
+    "image_base64": null
+  },
+  {
+    "question": "Người đi đường quan sát thấy đèn tín hiệu giao thông chuyển sang màu đỏ liền dừng xe lại trước vạch quy định. Thông tin từ đèn giao thông có vai trò gì?",
+    "options": [
+      "Giúp người tham gia giao thông chấp hành đúng luật và đảm bảo an toàn.",
+      "Khiến người tham gia giao thông phải tăng tốc đi nhanh hơn.",
+      "Là dữ liệu không gây ra bất kỳ sự thay đổi hành động nào.",
+      "Chỉ có giá trị đối với lực lượng công an giao thông."
+    ],
+    "answer": "Giúp người tham gia giao thông chấp hành đúng luật và đảm bảo an toàn.",
+    "image_base64": null
+  },
+  {
+    "question": "Đơn vị đo dung lượng thông tin nhỏ nhất trong máy tính là gì?",
+    "options": [
+      "Byte (B).",
+      "Bit (b).",
+      "Kilobyte (KB).",
+      "Megabyte (MB)."
+    ],
+    "answer": "Bit (b).",
+    "image_base64": null
+  },
+  {
+    "question": "Mỗi bit trong máy tính được biểu diễn bằng một kí hiệu nào dưới đây?",
+    "options": [
+      "Chữ số từ 0 đến 9.",
+      "Chữ cái A hoặc B.",
+      "Kí hiệu 0 hoặc 1.",
+      "Kí hiệu dấu cộng (+) hoặc dấu trừ (-)."
+    ],
+    "answer": "Kí hiệu 0 hoặc 1.",
+    "image_base64": null
+  }
 ]
