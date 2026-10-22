@@ -39,7 +39,7 @@ with col2:
             📝TRẮC NGHIỆM – TIN HỌC 6
         </h2>
         <h6 style='text-align: center; color: gray; font-weight: 700; margin-top: -10px;'> 
-    KIẾN THỨC TRỌNG TÂM GIỮA HK 1 NĂM HỌC 2026 - 2027
+    KIẾN THỨC TRỌNG TÂM GIỮA HK 1
         </h6>
         """,
         unsafe_allow_html=True
