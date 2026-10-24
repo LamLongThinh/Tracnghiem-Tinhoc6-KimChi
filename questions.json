@@ -306,5 +306,148 @@
     ],
     "answer": "Kí hiệu 0 hoặc 1.",
     "image_base64": null
+  },
+  {
+    "question": "Trong máy tính, dãy bit là gì?",
+    "options": [
+      "Là dãy các số tự nhiên từ 0 đến 9.",
+      "Là dãy chỉ gồm hai ký hiệu 0 và 1.",
+      "Là tập hợp các chữ cái trong bảng chữ tiếng Anh.",
+      "Là chuỗi âm thanh phát ra từ loa máy tính."
+    ],
+    "answer": "Là dãy chỉ gồm hai ký hiệu 0 và 1.",
+    "image_base64": null
+  },
+  {
+    "question": "Mọi thông tin (văn bản, hình ảnh, âm thanh, số) khi đưa vào máy tính đều được chuyển đổi thành dạng nào để máy tính có thể xử lí?",
+    "options": [
+      "Dạng dãy bit (dãy nhị phân gồm các ký hiệu 0 và 1).",
+      "Dạng hình ảnh màu sắc sắc nét.",
+      "Dạng ký tự chữ viết tiếng Việt",
+      "Dạng sóng âm thanh tần số cao."
+    ],
+    "answer": "Dạng dãy bit (dãy nhị phân gồm các ký hiệu 0 và 1).",
+    "image_base64": null
+  },
+  {
+    "question": "Vì sao thông tin trong máy tính lại được biểu diễn thành dãy bit?",
+    "options": [
+      "Vì máy tính gồm các linh kiện điện tử chỉ có hai trạng thái vật lý cơ bản (như đóng/mở mạch điện, có/không có điện).",
+      "Vì hai ký hiệu 0 và 1 giúp máy tính tiết kiệm điện năng nhất.",
+      "Vì con người chỉ thích sử dụng hai con số 0 và 1.",
+      "Vì bộ nhớ máy tính không thể chứa được các con số lớn hơn 1."
+    ],
+    "answer": "Vì máy tính gồm các linh kiện điện tử chỉ có hai trạng thái vật lý cơ bản (như đóng/mở mạch điện, có/không có điện).",
+    "image_base64": null
+  },
+  {
+    "question": "Quá trình chuyển đổi thông tin thực tế (văn bản, hình ảnh, âm thanh) thành dãy bit trong máy tính được gọi là quá trình gì?",
+    "options": [
+      "Quá trình nén dữ liệu.",
+      "Quá trình mã hóa thông tin.",
+      "Quá trình truyền tải thông tin.",
+      "Quá trình giải mã thông tin."
+    ],
+    "answer": "Quá trình mã hóa thông tin.",
+    "image_base64": null
+  },
+  {
+    "question": "Mạng máy tính gồm có những thành phần chủ yếu nào?",
+    "options": [
+      "Máy tính để bàn và dây cáp mạng.",
+      "Mạng internet, trang web và trình duyệt web.",
+      "Bàn phím, chuột, màn hình và thân máy tính.",
+      "Thiết bị đầu cuối, các thiết bị kết nối, và phần mềm mạng."
+    ],
+    "answer": "Thiết bị đầu cuối, các thiết bị kết nối, và phần mềm mạng.",
+    "image_base64": null
+  },
+  {
+    "question": "Thiết bị nào sau đây đóng vai trò là thiết bị đầu cuối trong mạng máy tính?",
+    "options": [
+      "Máy tính xách tay (Laptop), máy in.",
+      "Cáp mạng.",
+      "Bộ chuyển mạch (Switch).",
+      "Bộ định tuyến (Router)."
+    ],
+    "answer": "Máy tính xách tay (Laptop), máy in.",
+    "image_base64": null
+  },
+  {
+    "question": "Thiết bị nào sau đây là thiết bị kết nối cơ bản trong mạng máy tính?",
+    "options": [
+      "Điện thoại thông minh.",
+      "Máy tính để bàn (PC).",
+      "Máy quét (Scanner).",
+      "Bộ chuyển mạch (Switch) và Bộ định tuyến (Router)."
+    ],
+    "answer": "Bộ chuyển mạch (Switch) và Bộ định tuyến (Router).",
+    "image_base64": null
+  },
+  {
+    "question": "Vai trò chính của các thiết bị kết nối trong mạng máy tính là gì?",
+    "options": [
+      "Tạo ra thông tin mới cho người sử dụng.",
+      "Soạn thảo văn bản và tính toán số liệu.",
+      "Hiển thị hình ảnh và phát âm thanh từ máy tính.",
+      "Nối các thiết bị đầu cuối lại với nhau để truyền dữ liệu và thông tin."
+    ],
+    "answer": "Nối các thiết bị đầu cuối lại với nhau để truyền dữ liệu và thông tin.",
+    "image_base64": null
+  },
+  {
+    "question": "Khái niệm nào sau đây phát biểu đúng nhất về Mạng máy tính?",
+    "options": [
+      "Là tập hợp nhiều máy tính được đặt trong cùng một phòng học.",
+      "Là hệ thống mạng lưới giao thông đường bộ nối các thành phố.",
+      "Là việc nối máy tính với máy in bằng dây cáp USB.",
+      "Là hai hay nhiều máy tính và các thiết bị được kết nối với nhau để truyền thông tin cho nhau."
+    ],
+    "answer": "Là hai hay nhiều máy tính và các thiết bị được kết nối với nhau để truyền thông tin cho nhau.",
+    "image_base64": null
+  },
+  {
+    "question": "Lợi ích lớn nhất của việc kết nối các máy tính thành mạng máy tính là gì?",
+    "options": [
+      "Giúp máy tính chạy nhanh hơn và không bị nhiễm virus.",
+      "Giúp màn hình máy tính hiển thị nét hơn.",
+      "Giúp tăng dung lượng bộ nhớ RAM của máy tính.",
+      "Cho phép người dùng liên lạc, chia sẻ dữ liệu và dùng chung các thiết bị (như máy in, máy quét)."
+    ],
+    "answer": "Cho phép người dùng liên lạc, chia sẻ dữ liệu và dùng chung các thiết bị (như máy in, máy quét).",
+    "image_base64": null
+  },
+  {
+    "question": "Mạng không dây (Wifi) sử dụng phương tiện truyền thông nào để kết nối các thiết bị?",
+    "options": [
+      "Sóng vô tuyến (sóng không dây).",
+      "Cáp xoắn đôi.",
+      "Cáp đồng trục.",
+      "Cáp quang."
+    ],
+    "answer": "Sóng vô tuyến (sóng không dây).",
+    "image_base64": null
+  },
+  {
+    "question": "Trong trường hợp nào sau đây, việc sử dụng mạng không dây tỏ ra tiện dụng hơn rõ rệt so với mạng có dây?",
+    "options": [
+      "Kết nối dàn máy tính bàn cố định trong phòng máy tính THCS.",
+      "Kết nối máy tính bàn với máy in đặt ngay bên cạnh trên cùng một bàn làm việc.",
+      "Kết nối máy chủ dữ liệu cố định trong phòng máy chủ.",
+      "Người dùng sử dụng điện thoại thông minh hoặc laptop di chuyển liên tục trong quán cà phê, sân bay."
+    ],
+    "answer": "Người dùng sử dụng điện thoại thông minh hoặc laptop di chuyển liên tục trong quán cà phê, sân bay.",
+    "image_base64": null
+  },
+  {
+    "question": "Internet là gì?",
+    "options": [
+      "Là mạng máy tính nội bộ của một trường học.",
+      "Là kho lưu trữ tệp dữ liệu cá nhân trong đĩa cứng máy tính.",
+      "Là một phần mềm dùng để nhắn tin miễn phí trên điện thoại.",
+      "Là mạng toàn cầu kết nối hàng triệu mạng máy tính trên khắp thế giới."
+    ],
+    "answer": "Là mạng toàn cầu kết nối hàng triệu mạng máy tính trên khắp thế giới.",
+    "image_base64": null
   }
 ]
