@@ -438,16 +438,5 @@
     ],
     "answer": "Người dùng sử dụng điện thoại thông minh hoặc laptop di chuyển liên tục trong quán cà phê, sân bay.",
     "image_base64": null
-  },
-  {
-    "question": "Internet là gì?",
-    "options": [
-      "Là mạng máy tính nội bộ của một trường học.",
-      "Là kho lưu trữ tệp dữ liệu cá nhân trong đĩa cứng máy tính.",
-      "Là một phần mềm dùng để nhắn tin miễn phí trên điện thoại.",
-      "Là mạng toàn cầu kết nối hàng triệu mạng máy tính trên khắp thế giới."
-    ],
-    "answer": "Là mạng toàn cầu kết nối hàng triệu mạng máy tính trên khắp thế giới.",
-    "image_base64": null
   }
 ]
